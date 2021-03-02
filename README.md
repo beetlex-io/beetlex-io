@@ -1,5 +1,5 @@
 ### Beetlex framework 👋
-high performance dotnet core socket tcp communication components, support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols and 1M connections problem solution
+high performance dotnet core socket tcp communication components, support TLS; HTTP, HTTPS, WebSocket,Gateway, RPC, Redis protocols, custom protocols and 1M connections problem solution
 
 <a href="https://www.nuget.org/packages/BeetleX/" target="_blank"> <img src="https://img.shields.io/nuget/vpre/beetlex?label=BeetleX"> 
 							  <img src="https://img.shields.io/nuget/dt/BeetleX">
