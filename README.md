@@ -1,4 +1,5 @@
-### Hi there 👋
+### Beetlex framework 👋
+high performance dotnet core socket tcp communication components, support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols and 1M connections problem solution
 
 <!--
 **beetlex-io/beetlex-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
