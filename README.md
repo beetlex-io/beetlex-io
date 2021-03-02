@@ -5,14 +5,13 @@ high performance dotnet core socket tcp communication components, support TLS; H
 							  <img src="https://img.shields.io/nuget/dt/BeetleX">
 							  </a>						  
 
+<img src="https://github-readme-stats.vercel.app/api?username=WeihanLi&show_icons=true&theme=dark&count_private=true" align="left" height="150" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact" align="left" height="150"  >
+
+
 ####  Web Framework Benchmarks [Round 20](https://www.techempower.com/benchmarks/#section=data-r20&hw=ph&test=composite) in the top 10
-<img src="https://user-images.githubusercontent.com/2564178/107942248-eec41380-6fc5-11eb-94e4-410cadc8ae13.png" align="left" width="350" >
+<img src="https://user-images.githubusercontent.com/2564178/107942248-eec41380-6fc5-11eb-94e4-410cadc8ae13.png" align="left" width="300" >
 
-### downloads
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WeihanLi&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact)	
 
 <!--
 **beetlex-io/beetlex-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
