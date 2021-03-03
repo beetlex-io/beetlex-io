@@ -4,8 +4,10 @@ high performance socket tcp communication framework; support TLS,HTTP,HTTPS,WebS
 <a href="https://www.nuget.org/packages/BeetleX/" target="_blank"> <img src="https://img.shields.io/nuget/vpre/beetlex?label=BeetleX"> 
 							  <img src="https://img.shields.io/nuget/dt/BeetleX">
 							  </a><img src="https://user-images.githubusercontent.com/2564178/109756240-88283200-7c22-11eb-9f36-678cca3197bc.png" height="16">
-[download services](https://github.com/beetlex-io/downloads)
-							  
+[download services](https://github.com/beetlex-io/downloads) | 
+<img src="https://user-images.githubusercontent.com/2564178/109811058-51bfd680-7c65-11eb-8b97-6741028f0f26.png" height="16">
+[gateway demo](http://beetlex.io/__system/bumblebee/index.html)
+				  
 <img src="https://user-images.githubusercontent.com/2564178/109756382-cde4fa80-7c22-11eb-966b-408978876708.png" height="16">[all samples](https://github.com/beetlex-io/BeetleX-Samples)
 <img src="https://user-images.githubusercontent.com/2564178/109756382-cde4fa80-7c22-11eb-966b-408978876708.png" height="16">[beetlex+vue+element](https://github.com/beetlex-io/BeetleX-Samples/tree/master/BeetleX.Samples.WebFamily.AdminThemeF)
 <img src="https://user-images.githubusercontent.com/2564178/109756382-cde4fa80-7c22-11eb-966b-408978876708.png" height="16">[beetlex+vue+element+wpf](https://github.com/beetlex-io/BeetleX-Samples/tree/master/BeetleX.Samples.WebFamily.AdminThemeWPF)
