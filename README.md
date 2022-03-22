@@ -11,7 +11,7 @@ high performance socket tcp communication framework, support Unix domain Socket,
 
 
 
-| [http/websocket gateway](http://beetlex.io/__system/bumblebee/index.html)      | [data analysis](http://data.beetlex.io/) |
+| [http/websocket gateway](https://beetlex-io.com/__system/bumblebee/index.html)      | [data analysis](https://beetlex-io.com/bi/) |
 | ----------- | ----------- |
 | ![image](https://user-images.githubusercontent.com/2564178/146852125-e618490d-ba2e-498e-8e42-c1e6b74af2f6.png)      | ![image](https://user-images.githubusercontent.com/2564178/146852278-6cb585a6-09f5-47df-8f8b-464d5a9ff180.png)       |
 
