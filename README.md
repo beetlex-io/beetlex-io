@@ -1,9 +1,6 @@
 ### Beetlex framework 👋
 high performance socket tcp communication framework, support Unix domain Socket, TLS, HTTP, HTTPS, WebSocket, Gateway, RPC, Redis ... protocols , custom protocols and 1M connections solution
 
-<a href="https://www.nuget.org/packages/BeetleX/" target="_blank"> <img src="https://img.shields.io/nuget/vpre/beetlex?label=BeetleX"> 
-							  <img src="https://img.shields.io/nuget/dt/BeetleX">
-							  </a>
 <img src="https://user-images.githubusercontent.com/2564178/109756382-cde4fa80-7c22-11eb-966b-408978876708.png" height="16">**[BeetleX's tcp, http, websocket, xprc, web, vue ... samples](https://github.com/beetlex-io/BeetleX-Samples)**
 
 ####  Web Framework Benchmarks [Round 20](https://www.techempower.com/benchmarks/#section=data-r20&hw=ph&test=composite) in the top 10
@@ -11,9 +8,12 @@ high performance socket tcp communication framework, support Unix domain Socket,
 
 
 
-| [http/websocket gateway](https://beetlex-io.com/__system/bumblebee/index.html)      | [data analysis](https://beetlex-io.com/bi/) |
-| ----------- | ----------- |
-| ![image](https://user-images.githubusercontent.com/2564178/146852125-e618490d-ba2e-498e-8e42-c1e6b74af2f6.png)      | ![image](https://user-images.githubusercontent.com/2564178/146852278-6cb585a6-09f5-47df-8f8b-464d5a9ff180.png)       |
+| Package     | Nuget version | Download
+| ----------- | ----------- |----------- |
+|  BeetleX(tcp component)    |  <img src="https://img.shields.io/nuget/vpre/beetlex">  | <img src="https://img.shields.io/nuget/dt/BeetleX">|
+|  BeetleX.FastHttpApi(Http/Websocket server component)    |  <img src="https://img.shields.io/nuget/vpre/BeetleX.FastHttpApi">   | <img src="https://img.shields.io/nuget/dt/BeetleX.FastHttpApi">|
+|  BeetleX.Redis(Redis client component)    |  <img src="https://img.shields.io/nuget/vpre/BeetleX.Redis">   | <img src="https://img.shields.io/nuget/dt/BeetleX.Redis"> |
+|  BeetleX.Http.Clients(Http/Websocket client component)    |  <img src="https://img.shields.io/nuget/vpre/BeetleX.Http.Clients">   | <img src="https://img.shields.io/nuget/dt/BeetleX.Http.Clients"> |
 
 
 <!--
